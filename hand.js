@@ -72,7 +72,7 @@ export default {
         try {
           collect(JSON.parse(nextData[1]));
         } catch (_) {
-          // Le format actuel est essayé ci-dessous.
+          
         }
       }
 
